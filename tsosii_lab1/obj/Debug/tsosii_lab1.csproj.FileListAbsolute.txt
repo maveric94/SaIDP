@@ -1,0 +1,10 @@
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\bin\Debug\tsosii_lab1.exe.config
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\bin\Debug\tsosii_lab1.exe
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\bin\Debug\tsosii_lab1.pdb
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\obj\Debug\tsosii_lab1.Form1.resources
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\obj\Debug\tsosii_lab1.frmPreview.resources
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\obj\Debug\tsosii_lab1.Properties.Resources.resources
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\obj\Debug\tsosii_lab1.csproj.GenerateResource.Cache
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\obj\Debug\tsosii_lab1.exe
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\obj\Debug\tsosii_lab1.pdb
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\8 семестр\ЦОСиИ\Лабы\lab1\tsosii_lab1\obj\Debug\tsosii_lab1.csprojResolveAssemblyReference.cache
